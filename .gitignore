@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# macOS / Linux system files
+.DS_Store
+
+# User database
+users.json
+
+# Editor files
+*.swp
+*.swo
+
+# Log and temp files
+*.log
+*.tmp

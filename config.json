@@ -1,0 +1,4 @@
+{
+    "pepper": "SUPERGEHEIMER_PEPPER_WERT",
+    "algorithm": "bcrypt"
+}
