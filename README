@@ -1,8 +1,4 @@
-# Umschulungsaufgabe
-
----
-
-# 🔐 Einfaches Authentifizierungssystem mit konfigurierbarem Hashing
+# 🔐 Einfaches Authentifizierungssystem mit konfigurierbarem Hashing (Umschulungsaufgabe)
 
 Dieses Projekt demonstriert ein sicheres Login-System in Python mit Unterstützung für Salt, Pepper und verschiedenen Hash-Algorithmen.
 
